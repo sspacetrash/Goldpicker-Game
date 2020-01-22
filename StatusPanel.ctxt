@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StatusPanel
+comment0.text=\n\ This\ class\ creates\ the\ status\ panel\ for\ main\ game,\ which\ displays\ the\ score\ of\ the\ game,\ and\ let\ the\ select\ the\n\ mode.\n\n\ @HOI\ CHING\ NG\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=StatusPanel()
+comment1.text=\n\ Constructer\ for\ the\ JPanel\ adding\ the\ buttons\ and\ labels.\n
+comment2.params=c
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=boolean\ getisScoreMode()
+comment3.text=\nAccessor\ method\ returning\ boolean\ isScoreMode\ which\ needs\ to\ be\ passed\ to\ EndLevel\ class.\ \n
+comment4.params=
+comment4.target=void\ refreshLabels()
+comment4.text=\n\ Set\ the\ text\ again,\ is\ used\ when\ the\ panel\ is\ clicked\ in\ GoldPciker\ class.\n
+comment5.params=
+comment5.target=java.lang.String\ getColorset()
+numComments=6

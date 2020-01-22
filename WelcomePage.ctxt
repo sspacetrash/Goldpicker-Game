@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WelcomePage
+comment0.text=\n\ This\ class\ introudces\ the\ user\ to\ the\ game,\ letting\ the\ user\ to\ select\ if\ they\ want\ to\ enter\ the\ game\ or\ \n\ read\ the\ instructions.\n\n\ @HOI\ CHING\ NG\ \n\ \n
+comment1.params=
+comment1.target=WelcomePage()
+comment1.text=\n\ Constructor\ for\ Welcome\ Page,\ which\ is\ the\ page\ where\ user\ enters\ his/her\ name.\n
+comment2.params=
+comment2.target=java.lang.String\ getNames()
+comment2.text=\n\ Accessor\ method\ for\ getting\ string\ variable\ name\ to\ be\ passed\ into\ GoldPicker\ class.\n
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\n\ Method\ that\ contain\ all\ components\ for\ JFrame.\n
+comment4.params=f
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ Method\ of\ actions\ to\ be\ excuted\ after\ button\ clicks.\n
+numComments=5
